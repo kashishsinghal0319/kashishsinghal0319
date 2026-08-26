@@ -1,5 +1,39 @@
-# 💫 About Me:
-I’m a BCA student currently learning Python and SQL. Python helps me build programming logic and solve problems efficiently, while SQL enables me to work with databases by storing, retrieving, and managing data. I’m focused on strengthening my fundamentals and applying these skills to real-world projects as I grow in the field of software development.<br>
+
+# 👋 About Me:
+
+🎓 Student | 📊 Aspiring Data Analyst | 🤖 Future AI Builder
+
+I'm currently building a strong foundation in **Data Analytics** and developing the technical and analytical skills needed to work with real-world data.
+
+### 📊 Data Analytics Journey
+
+I'm working toward learning:
+
+- 🐍 **Python** — Programming, NumPy, Pandas & data analysis
+- 📊 **Excel** — Data cleaning, formulas, Pivot Tables & dashboards
+- 🗄️ **SQL / MySQL** — Queries, joins, aggregations & database management
+- 📈 **Data Visualization** — Power BI, Matplotlib & Seaborn
+- 🧹 **Data Cleaning & Preparation**
+- 🔍 **Exploratory Data Analysis (EDA)**
+- 📐 **Statistics & Probability**
+- 📊 **Data Interpretation & Storytelling**
+- 🔧 **Git & GitHub** — Version control & project collaboration
+
+### 🌱 Currently Working On
+
+- 🐍 Python
+- 📊 Microsoft Excel
+- 🔧 Git & GitHub
+
+I'm continuously improving my **problem-solving, analytical and programming skills** through learning and practical projects.
+
+### 🤖 Future Direction
+
+My long-term goal is to move from **Data Analytics into Artificial Intelligence**.
+
+I want to use the foundation I build in **data, programming, statistics and problem-solving** to eventually create **real-world AI projects and practical AI-powered solutions**.
+
+🚀 **Learn → Analyze → Build → Innovate**<br>
 
 
 ## 🌐 Socials:
