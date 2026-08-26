@@ -1,39 +1,21 @@
+# 👋 Hey, I'm Kashish Singhal!
 
-# 👋 About Me:
+### 📊 Data Analytics Learner | 💻 Tech Enthusiast | 🤖 Future AI Builder
 
-🎓 Student | 📊 Aspiring Data Analyst | 🤖 Future AI Builder
+> 🚀 Learning today. Building tomorrow.
 
-I'm currently building a strong foundation in **Data Analytics** and developing the technical and analytical skills needed to work with real-world data.
+I'm currently building my foundation in **Data Analytics** and developing skills to work with real-world data.
 
-### 📊 Data Analytics Journey
+### 🌱 Currently Learning
+🐍 Python • 📊 Excel • 🔧 Git & GitHub
 
-I'm working toward learning:
+### 📚 Exploring Next
+🗄️ SQL & MySQL • 📈 Power BI • 🧹 Data Cleaning • 🔍 EDA • 📐 Statistics • 📊 Data Visualization
 
-- 🐍 **Python** — Programming, NumPy, Pandas & data analysis
-- 📊 **Excel** — Data cleaning, formulas, Pivot Tables & dashboards
-- 🗄️ **SQL / MySQL** — Queries, joins, aggregations & database management
-- 📈 **Data Visualization** — Power BI, Matplotlib & Seaborn
-- 🧹 **Data Cleaning & Preparation**
-- 🔍 **Exploratory Data Analysis (EDA)**
-- 📐 **Statistics & Probability**
-- 📊 **Data Interpretation & Storytelling**
-- 🔧 **Git & GitHub** — Version control & project collaboration
+### 🤖 Future Goal
+Build a strong foundation in **Data Analytics, programming, and problem-solving**, then use it to explore **AI and create real-world AI-powered projects**.
 
-### 🌱 Currently Working On
-
-- 🐍 Python
-- 📊 Microsoft Excel
-- 🔧 Git & GitHub
-
-I'm continuously improving my **problem-solving, analytical and programming skills** through learning and practical projects.
-
-### 🤖 Future Direction
-
-My long-term goal is to move from **Data Analytics into Artificial Intelligence**.
-
-I want to use the foundation I build in **data, programming, statistics and problem-solving** to eventually create **real-world AI projects and practical AI-powered solutions**.
-
-🚀 **Learn → Analyze → Build → Innovate**<br>
+> **Learn → Analyze → Build → Innovate 🚀**<br>
 
 
 ## 🌐 Socials:
